@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on sci-fi
 - 📫 How to reach me masha.harness@gmail.com
 - 😄 Pronouns: 😄👱🏻
-- ⚡ Fun fact: 🍄hunting
+- ⚡ Fun fact: 🍄‍🟫hunting
 
 <!---
 bizalchemist/bizalchemist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
