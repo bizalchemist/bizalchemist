@@ -1,10 +1,10 @@
 - 👋 Hey there, I'm @bizalchemist 
 - 👀 I'm a BizOps enthusiast fascinated by how AI/ML can transform business operations
-- 🌱 I’m currently 🛠️ crafting a zero-budget chatbot navigator for my website 
+- 🛠️ I’m currently experimenting with crafting AI/ML bot-navigator for channel partner websites
 - 💞️ When I'm not optimizing processes, you can usually find me building bots 🤖 or geeking out over the latest sci-fi/detective novel
 - 📫 How to reach me: ✉️ masha.harness@gmail.com
 - 😄 Pronouns: 😄👱🏻
-- ⚡ Fun fact: I'm a 🍄-hunter
+- ⚡ Fun fact: I'm a 🍄-hunter: porcini & chanterelles are my favorites...
 - 🌎 Want to talk AI, sci-fi, or better ways to streamline workflows? I'm your person!
 
 <!---
