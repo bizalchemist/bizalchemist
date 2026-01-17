@@ -5,7 +5,7 @@
 - 📫 How to reach me: Reach out via a Pull Request or Issue on my projects
 - 😄 Pronouns: 😄👱🏻
 - ⚡ Fun fact: I'm a 🍄-hunter: porcini & chanterelles are my favorites...
-- 🌎 Want to talk AI, sci-fi, or better ways to streamline workflows? I'm your person!
+- 🌎 Want to talk AI/ML/LLM, sci-fi, or better ways to streamline workflows? I'm your person!
 
 <!---
 bizalchemist/bizalchemist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
