@@ -1,5 +1,5 @@
 - 👋 Hey there, I'm @bizalchemist 
-- 👀 I'm a BizOpsDev enthusiast fascinated by how AI/ML can transform business operations
+- 👀 I'm a BizOpsDev Architect bridging the gap between passive learning and revenue generation through custom AI/ML integrations.
 - 🛠️ I’m currently experimenting with crafting AI/ML bot-navigator for channel partner websites
 - 💞️ When I'm not optimizing processes, you can usually find me building bots 🤖 or geeking out over the latest sci-fi/detective novel
 - 📫 How to reach me: Reach out via a Pull Request or Issue on my projects
