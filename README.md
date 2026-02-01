@@ -1,7 +1,7 @@
 - 👋 Hey there, I'm @bizalchemist 
 - 👀 I'm a BizOpsDev Architect specialized in transforming passive training into active revenue. I build custom AI/ML integrations that streamline complex partner ecosystems.
 - 🛠️ Currently architecting AI-driven bot-navigators to guide channel partners through high-stakes sales workflows.
-     --> 🚀 Featured Project: Eggy AI Navigator — A three-layered enablement framework featuring a real-time partner deal registration portal with integrated AI assistance.
+     - 🚀 Featured Project: Eggy AI Navigator — A three-layered enablement framework featuring a real-time partner deal registration portal with integrated AI assistance.
 - 💞️ When I'm not optimizing processes, you can usually find me building bots 🤖 or geeking out over the latest sci-fi/detective novel
 - 📫 How to reach me: Reach out via a Pull Request or Issue on my projects
 - 😄 Pronouns: 😄👱🏻
